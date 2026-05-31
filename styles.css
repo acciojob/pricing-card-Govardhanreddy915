@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+body{
+	background-color:lightyellow
+}
+.container{
+	width:350px;
+    padding:25px;
+    background-color:lightblue;
+    box-shadow:0 8px 18px rgba(0,0,0,0.2);
+    text-align:center;
+    margin:50px auto;
+}
+.b{
+	color:red;
+	background-color:black
+}
